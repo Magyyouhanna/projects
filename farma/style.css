@@ -1,0 +1,43 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.parent {
+    position: absolute;
+    width: 80%;
+    height: 80%;
+}
+.frist-div{
+    width: 80%;
+    background-color: rgb(145, 218, 218);
+    height: 50%;
+    margin: auto;
+    border: 2px solid rgb(155, 125, 27);
+    padding: 20px;
+    position: relative;
+}
+.second-div{
+    width: 20%;
+    background-color: rgb(144, 231, 231);
+    height: 50%;
+    margin: auto;
+    border: 200px solid rgb(192, 106, 36);
+    padding: 200px;
+    position: relative;
+}
+.child1 {
+    background-color: aqua;
+    width: 200px;
+    height: 100px;
+} */
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.parent {
+    width: 850px;
+    background-color: aqua;
+    height: 850px;
+}
